@@ -1,0 +1,5 @@
+node_modules/
+gym.db
+gym.db-*
+dist/
+.env
