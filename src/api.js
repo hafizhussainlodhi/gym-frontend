@@ -1,4 +1,4 @@
-const BASE = '/api';
+const BASE = 'https://gym-backend-iota-woad.vercel.app/api';
 
 function getToken() {
   return localStorage.getItem('gym_token');
